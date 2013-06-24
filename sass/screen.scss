@@ -109,11 +109,13 @@ path {
     h2 {
         margin-top: 0;
         line-height: 0.9em;
+        font-size: 22px;
     }
 
     h3 {
         font-weight: normal;
         line-height: 1em;
+        font-size: 18px;
     }
 }
 
@@ -134,4 +136,8 @@ path {
 
 .navbar-inner {
     height: 40px;
+}
+
+#map-guide {
+    font-size: 16px;
 }
